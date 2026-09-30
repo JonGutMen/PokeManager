@@ -1,5 +1,7 @@
 # PokéManager
+<p align="center">
 <img src="./Logo@3x.png" alt="Icono de la aplicación" width="300">
+</p>
 
 ## Temática
 PokéManager es una aplicación basada en la franquicia ***Pokémon*** que te permite crear equipos, modificar y añadir pokemon. 
