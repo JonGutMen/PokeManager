@@ -3,6 +3,14 @@
 <img src="./Logo@3x.png" alt="Icono de la aplicación" width="300">
 </p>
 
+## Cosas a modificar en  cada documento
+### IEEE830
+
+- darle cariño al documento; quitar inserte texto.
+- indice de requisitos funcionales
+- punto de acción de los requisitos funcionales. [usuario o sistema]. hacerlo por pasitos de cara al documento de casos de uso.s
+- definir los campos obligatorios en algun sitio, y definir los tipos de datos no literalmente de cara a la programación sino cadena de texto,etc.
+
 ## Temática
 PokéManager es una aplicación basada en la franquicia ***Pokémon*** que te permite crear equipos, modificar y añadir pokemon. 
 
